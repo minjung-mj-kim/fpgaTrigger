@@ -17,3 +17,6 @@ FPGA trigger matrix:
 FPGA trigger channel map:
 
      fpga_channelmap.xlsx
+
+     X channels are up to date
+     Y channels are outdated, but didn't care because they are not used anyway.
